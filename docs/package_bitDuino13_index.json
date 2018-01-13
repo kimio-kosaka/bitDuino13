@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/kimio-kosaka/bitDuino13/archive/v1.0.0.tar.gz",
           "archiveFileName": "bitDuino13-1.0.0.tar.gz",
-          "checksum": "SHA-256:0978fe72e07457f09ca2274e835ab2a5d78d7ad6ae16f1052d29a7151e3692a2",
-          "size": "61516",
+          "checksum": "SHA-256:b729a00eb7207fd2ec7f546dcb859428038a68944a8ab4ec1393bce64cc3790a,
+          "size": "69674",
           "boards": [
             {"name": "ATtiny13"}
           ],
